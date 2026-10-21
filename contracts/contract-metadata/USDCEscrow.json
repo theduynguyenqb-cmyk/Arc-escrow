@@ -1,0 +1,28 @@
+{
+  "contractAddress": "0x2581E9F39e5CBB83f00f091Ee4B3018F17dFd4Ab",
+  "network": "ARC",
+  "deployerWalletId": "d58e47ba-6288-5155-893e-8d905ada1cdb",
+  "deployerAddress": "0x47ade5805ba18bbf88051b6803e242f197a2afb5",
+  "contract_code_path": "/home/user/app/contracts/USDCEscrow.sol",
+  "contract_compiled_code_path": "/home/user/app/contracts/out/USDCEscrow.sol/USDCEscrow.json",
+  "contract_network_and_links": {
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0xed8c8c5ec0384b65ed54979f04e76d17265645ef",
+    "Arc": "0x2581E9F39e5CBB83f00f091Ee4B3018F17dFd4Ab"
+  },
+  "contract_deployments": [
+    {
+      "chain": "Arc",
+      "address": "0x2581E9F39e5CBB83f00f091Ee4B3018F17dFd4Ab",
+      "explorerUrl": "0x2581E9F39e5CBB83f00f091Ee4B3018F17dFd4Ab",
+      "txHash": "0x3f0900bcdaf6962a8351071deff67fe228071abba4491afaf358e15271bb0931",
+      "deployedAt": "2026-10-20T09:26:16.055Z"
+    },
+    {
+      "chain": "Arc Testnet",
+      "address": "0xed8c8c5ec0384b65ed54979f04e76d17265645ef",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0xed8c8c5ec0384b65ed54979f04e76d17265645ef",
+      "txHash": "0xc1dfdb9f31c6a45c6aa2127c47ebc994f44268940bfc5744f8ccf5480224455c",
+      "deployedAt": "2026-10-18T04:46:36.958Z"
+    }
+  ]
+}
